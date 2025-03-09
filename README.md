@@ -1,4 +1,5 @@
 # Staff Identification 
 
-This repository consist of a file for custom model training using YOLO11 for staff identification. /
-Another file is the code script to run the sample video for staff detection and prints the frame index when staff is present in the frame and its coordinates.
+This repository consist of 
+1) a file for custom model training using YOLO11 for staff identification. 
+2) a code script to run the sample video for staff detection. It prints the frame index when staff is present and the staff coordinates.
